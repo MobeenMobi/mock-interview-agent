@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mock-Interview-Agent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b472d3578007faf428b4a274e19bf996e84acb7d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b26c017e243a23e049aeaf416147de4b4b03b4ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mock-Interview-Agent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mock-Interview-Agent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\shiek\\OneDrive\\Desktop\\Private Learning\\mock-interview-agent\\Mock-Interview-Agent\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A37B02B2-7B60-46B2-8D1B-1708D4AA81DC}|Mock-Interview-Agent\\Mock-Interview-Agent.csproj|c:\\users\\shiek\\onedrive\\desktop\\private learning\\mock-interview-agent\\mock-interview-agent\\mock-interview-agent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A37B02B2-7B60-46B2-8D1B-1708D4AA81DC}|Mock-Interview-Agent\\Mock-Interview-Agent.csproj|solutionrelative:mock-interview-agent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2FED1E37-26BE-B8AF-52F8-5122FA6CC971}|Mock-Interview-Agent\\Mock-Interview-Agent.csproj|c:\\users\\shiek\\onedrive\\desktop\\private learning\\mock-interview-agent\\mock-interview-agent\\mock-interview-agent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FED1E37-26BE-B8AF-52F8-5122FA6CC971}|Mock-Interview-Agent\\Mock-Interview-Agent.csproj|solutionrelative:mock-interview-agent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Mock-Interview-Agent\\Program.cs",
               "ToolTip": "C:\\Users\\shiek\\OneDrive\\Desktop\\Private Learning\\mock-interview-agent\\Mock-Interview-Agent\\Mock-Interview-Agent\\Program.cs",
               "RelativeToolTip": "Mock-Interview-Agent\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-11T09:26:36.754Z",
               "EditorCaption": ""
